@@ -25,3 +25,4 @@ SELECT * FROM tb_funcionarios WHERE salario < 2000.0;
 
 UPDATE tb_funcionarios SET salario = 6000.0 WHERE id_usuario = 2
 
+Exercicio do dia 20/05
